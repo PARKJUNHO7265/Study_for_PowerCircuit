@@ -1,16 +1,28 @@
 <h3>회로도</h3>
 
-![image](https://github.com/PARKJUNHO7265/Study_for_PowerCircuit/assets/87568714/4045fcf6-c970-460a-9797-83ba9853a4d1)
+• 풀 브리지</br>
+![image](https://github.com/PARKJUNHO7265/Study_of_SMPS/assets/87568714/ff7d07d6-1f54-475c-b97f-50dc8f22050e)
+
+• 하프 브리지</br>
+![image](https://github.com/PARKJUNHO7265/Study_of_SMPS/assets/87568714/041bb46c-5304-460c-8da5-370e0e2f957b)
 
 <h3>특성</h3>
 
-• 인버터의 출력전압 vo는 입력전압 VDC와 트랜지스터의 pwm에 의하여 정해진다.</br>
-• 부하전류 io는 인버터 출력전압과 부하의 특성에 따라 정해진다. </br>
-• 인버터의 입력전류 iDC는 부하전류 io와 트랜지스터의 pwm에 의하여 정해진다.</br>
+• 공통</br>
+1. 출력전압 vo는 입력전압 VDC와 트랜지스터의 pwm에 의하여 정해진다.</br>
+2. 부하전류 io는 인버터 출력전압과 부하의 특성에 따라 정해진다. </br>
+3. 인버터의 입력전류 iDC는 부하전류 io와 트랜지스터의 pwm에 의하여 정해진다.</br>
+
+• 차이</br>
+1. 풀 브리지는 하프 브리지의 
 
 <h3>Orcad Pspice 회로도</h3>
 
+• 풀 브리지</br>
 ![image](https://github.com/PARKJUNHO7265/Study_for_PowerCircuit/assets/87568714/4f36d45b-9687-4bb5-8d81-fe1be54db855)
+
+• 하프 브리지</br>
+
 
 •사용된 소자</br>
 Q2N222 트랜지스터</br>
